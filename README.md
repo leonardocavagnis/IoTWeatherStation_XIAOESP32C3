@@ -7,7 +7,7 @@ It sends temperature and humidity readings from the sensor to the server and all
 The station includes a buzzer for error signals and a button for switching display screens, showing information such as time, date, temperature, humidity, Wi-Fi 
 and MQTT connection status and the connected Wi-Fi network and MQTT server.
 
-Tutorial: 
+Tutorial: https://leonardocavagnis.medium.com/iot-weather-station-with-seeed-studio-cb8aa40fad9
 
 <!-- SETUP -->
 ## Setup
